@@ -1,0 +1,132 @@
+/*Selector {
+	Property: value;
+
+}*/
+
+/* nav */
+
+.navbar {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* end nav */
+
+
+/* buttons */
+
+#user-silhouette{
+    width: 30px;
+    height: 30px;
+    margin-right: 15px;
+}
+/* end buttons */
+
+/* body */
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Top Section */
+.top-section {
+    background-color: #0e2d63;
+    width: auto;
+    height: auto;
+}
+
+/* End Top Section */
+
+/* Middle Section */
+
+.col0-1 {
+    background-color: green;
+}
+
+.col0-2 {
+    background-color: gray;
+}
+
+
+.col1 {
+    background-color: #2052b3;
+    width: auto;
+    height: auto;
+    color: white;
+    padding: 75px;
+    min-width: 250px;
+   
+}
+
+.col2 {
+    background-color: red;
+    width: auto;
+    height: auto;
+    color: white;
+    padding: 75px;
+    min-width: 250px;
+}
+
+.col1 img {
+    padding: 10px;
+}
+
+.col2 img {
+    padding: 10px;
+}
+
+
+
+/* End Middle Section */
+
+/* Bottom Section */
+
+.bottom-section {
+    background-color: #950101;
+    width: auto;
+    height: auto;
+}
+/* End Bottom Section */
+
+/* Positioned Parts */
+.contentleft {
+    padding: 2%;
+    margin: 2%;
+    width: auto;
+    float: left;
+}
+
+.contentmiddle {
+    padding: 2%;
+    margin: 2%;
+    width: auto;
+    float: center;
+}
+
+.contentright {
+    padding: 4%;
+    width: auto;
+    float: right;
+    color: white;
+}
+
+.bottom-links a {
+    color: white;
+}
+
+.bottom-links a:hover {
+    color: #c2c2c2;
+    text-decoration: none;
+}
+
+/* End Positioned Parts */
+
+/* end body */
+
